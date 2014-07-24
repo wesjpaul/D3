@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Wes\AndroidStudioProjects\D3\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Wes\AndroidStudioProjects\D3\app\build\intermediates\pre-dexed\debug\classes-3c0c708e06bb4e36201898ab2c29340c06a37709.jar"
+        jar="C:\Users\Wes\AndroidStudioProjects\D3\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Wes\AndroidStudioProjects\D3\app\build\intermediates\pre-dexed\debug\org.apache.commons.lang-3d0cfa0ee897301a2cfe7f29254aeed442542d36.jar"
+        jar="C:\Users\Wes\AndroidStudioProjects\D3\app\libs\org.apache.commons.lang.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0eecdac8c86bc84b4bdfc24371ba8c785a1fc552"/>
+    <item
+        dex="C:\Users\Wes\AndroidStudioProjects\D3\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2-b4feb8b21f9564b2b98920db67ea60b2ea3a686e.jar"
+        jar="C:\Users\Wes\AndroidStudioProjects\D3\app\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="872693211fd68d1c4e116cf90021603207725e19"/>
+
+</pre-dex-items>

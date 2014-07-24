@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+    <ListView
+         android:id="@+id/song_list"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"/>
+
+	<LinearLayout 
+	    android:id="@+id/download_ui"
+	    android:orientation="vertical"  
+	    android:layout_width="250dp"  
+	    android:layout_height="wrap_content"   
+	    android:layout_centerInParent="true">
+	
+	<TextView 
+	   	android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="Enter a Website URL:"
+	    android:padding="10dp" 
+	    android:textSize="16sp"/>
+	    
+	<EditText
+	    android:id="@+id/uri"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:hint="ex. www.yourwebsite.com"
+	    android:inputType="textUri"
+	    android:padding="10dp" />    
+	
+	<Button
+	    android:id="@+id/parse_uri"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="right"
+	    android:text="Check for Content" />
+	
+	</LinearLayout>
+</RelativeLayout>

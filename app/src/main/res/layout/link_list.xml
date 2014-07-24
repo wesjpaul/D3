@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+     <TextView android:id="@+id/fileName"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textSize="18sp"
+        android:layout_weight="35"
+        android:text="test"  />
+
+
+     <ImageButton
+         android:id="@+id/playButton"
+         android:layout_width="40sp"
+         android:layout_height="40sp"
+         android:layout_weight="1"
+         android:background="@drawable/play_button" />
+     
+      <ImageButton
+         android:id="@+id/downloadButton"
+         android:layout_width="40sp"
+         android:layout_height="40sp"
+         android:layout_weight="1"
+         android:background="@drawable/download_arrow" />
+        
+</LinearLayout>
