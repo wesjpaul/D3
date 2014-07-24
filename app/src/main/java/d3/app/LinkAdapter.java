@@ -1,9 +1,3 @@
-/*
-    LinkAdapter.java
-    responsible for blah blah blah
- */
-
-
 package d3.app;
 
 import java.io.File;
